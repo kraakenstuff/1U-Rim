@@ -1,2 +1,2 @@
-# 1U-LFO
+# 1U-RIM
 1U Eurorack rimshot module
