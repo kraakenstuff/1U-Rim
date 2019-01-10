@@ -1,4 +1,4 @@
 # 1U-RIM
-1U Eurorack rimshot module
+Eurorack 1U rimshot module based on Hexinverter's NeinOhNein Rim
 
 Status: never tested
