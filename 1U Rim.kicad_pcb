@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 17)
+    (drawings 26)
     (tracks 505)
     (zones 0)
     (modules 77)
@@ -216,6 +216,11 @@
     (model ${GDOC}/_lib/packages3d/PJ301M-12.WRL
       (offset (xyz -0.8889999866485596 0.4063999938964844 0))
       (scale (xyz 393 393 393))
+      (rotate (xyz 0 0 -90))
+    )
+    (model "C:/Users/xxmarjdm/Documents/KiCad/KraakenStuffLib/3D/PJ301M-12 Thonkiconn v0.2.stp"
+      (offset (xyz -1 0 0))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
   )
@@ -1174,6 +1179,11 @@
       (scale (xyz 393 393 393))
       (rotate (xyz 0 0 -90))
     )
+    (model "C:/Users/xxmarjdm/Documents/KiCad/KraakenStuffLib/3D/PJ301M-12 Thonkiconn v0.2.stp"
+      (offset (xyz -1 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -90))
+    )
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical (layer F.Cu) (tedit 59FED5CC) (tstamp 5C362081)
@@ -1245,6 +1255,11 @@
     (model ${GDOC}/_lib/packages3d/PJ301M-12.WRL
       (offset (xyz -0.8889999866485596 0.4063999938964844 0))
       (scale (xyz 393 393 393))
+      (rotate (xyz 0 0 -90))
+    )
+    (model "C:/Users/xxmarjdm/Documents/KiCad/KraakenStuffLib/3D/PJ301M-12 Thonkiconn v0.2.stp"
+      (offset (xyz -1 0 0))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
   )
@@ -3104,6 +3119,15 @@
     )
   )
 
+  (gr_circle (center 23.9014 43.5864) (end 27.0764 43.5864) (layer Eco2.User) (width 0.2))
+  (gr_circle (center 34.0614 43.5864) (end 37.2364 43.5864) (layer Eco2.User) (width 0.2))
+  (gr_circle (center 44.2214 43.5864) (end 47.3964 43.5864) (layer Eco2.User) (width 0.2))
+  (gr_circle (center 41.6814 26.5684) (end 45.0469 26.5684) (layer Eco2.User) (width 0.2))
+  (gr_circle (center 26.4414 26.5684) (end 29.8069 26.5684) (layer Eco2.User) (width 0.2))
+  (gr_line (start 18.8468 57.5818) (end 49.3268 57.5818) (layer Eco2.User) (width 0.2) (tstamp 5C71DB7E))
+  (gr_line (start 49.3268 14.4018) (end 49.3268 57.5818) (layer Eco2.User) (width 0.2) (tstamp 5C71DB56))
+  (gr_line (start 18.8214 14.4018) (end 18.8214 57.5818) (layer Eco2.User) (width 0.2))
+  (gr_line (start 18.8468 14.4018) (end 49.3268 14.4018) (layer Eco2.User) (width 0.2))
   (gr_circle (center 25.5524 28.0924) (end 25.8524 28.0924) (layer F.SilkS) (width 0.2))
   (gr_circle (center 30.0228 42.0116) (end 30.3228 42.0116) (layer F.SilkS) (width 0.2))
   (gr_circle (center 68.9356 42.3672) (end 69.2356 42.3672) (layer F.SilkS) (width 0.2))
